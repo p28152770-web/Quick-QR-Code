@@ -1,0 +1,6 @@
+{
+  "name": "Quick QR Code",
+  "description": "Generate QR Codes instantly for free from URLs, text, phone numbers, WiFi credentials, and more. Clean, fast, and completely secure browser-based QR Code Generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
