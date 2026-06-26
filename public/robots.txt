@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Host
+Host: https://quickqrcode.pages.dev
+
+# Sitemap
+Sitemap: https://quickqrcode.pages.dev/sitemap.xml
